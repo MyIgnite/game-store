@@ -1,6 +1,6 @@
 # Modelagem do banco de dados
 
-Para executar esse desafio é necessário clonar o desafio anteritor: https://github.com/MyIgnite/database-query
+Para executar esse desafio é necessário clonar o desafio anterior: https://github.com/MyIgnite/database-query
 
 Desafio: A aplicação deve ter uma tabela de gêneros (`genres`) para que cada jogo possa ter um ou mais gênero e, além disso, uma tabela `orders` deve existir para que um usuário consiga comprar um ou mais jogos na mesma compra.
 
