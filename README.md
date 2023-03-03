@@ -1,4 +1,16 @@
-# database-query
+# Modelagem do banco de dados
+
+Para executar esse desafio é necessário clonar o desafio anteritor: https://github.com/MyIgnite/database-query
+
+Desafio: A aplicação deve ter uma tabela de gêneros (`genres`) para que cada jogo possa ter um ou mais gênero e, além disso, uma tabela `orders` deve existir para que um usuário consiga comprar um ou mais jogos na mesma compra.
+
+Um extra seria colocar as cardinalidades entre as entidades mas não tome isso como obrigatório. </br>
+Anexar a imagem da modelagem do banco em um documento Notion, torná-lo publico.
+
+[Saiba mais sobre o teste](https://renanmms.notion.site/Desafio-02-Modelagem-do-banco-de-dados-a7e2677a0b2c42dda1dcd813da4c04c1)
+
+
+# database-query (desafio anterior)
 Desafio: Realizará consultas no banco de dados com o TypeORM de três maneiras.
 [Veja mais sobre o teste](https://renanmms.notion.site/Desafio-01-Database-Queries-46f62b51020742ddbbb18945e6f7a6c4)
 
