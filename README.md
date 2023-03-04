@@ -7,6 +7,7 @@ Desafio: A aplicação deve ter uma tabela de gêneros (`genres`) para que cada 
 Um extra seria colocar as cardinalidades entre as entidades mas não tome isso como obrigatório. </br>
 Anexar a imagem da modelagem do banco em um documento Notion, torná-lo publico.
 
+[Ver modelagem no Notion](https://renanmms.notion.site/Desafio-02-Modelagem-do-banco-de-dados-a7e2677a0b2c42dda1dcd813da4c04c1)
 ![Modelagem](./Chapter%20III%20-%20Desafio%20-%20Modelagem%20do%20banco%20de%20dados.png "Modelagem")
 
 [Saiba mais sobre o teste](https://renanmms.notion.site/Desafio-02-Modelagem-do-banco-de-dados-a7e2677a0b2c42dda1dcd813da4c04c1)
